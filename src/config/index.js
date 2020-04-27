@@ -1,2 +1,2 @@
-export const apiKey = "157f773420e25b25a960c89d1b74a26b"
+export const apiKey = "c10bb3bd22f90d636baa008b1529ee25b"
 export const baseUrl = "http://api.openweathermap.org/;"
